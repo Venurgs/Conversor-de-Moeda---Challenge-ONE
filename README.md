@@ -14,5 +14,5 @@ Funcionalidades:
 
 Requisitos:
 - Java 8 ou superior.  
-- Biblioteca **Gson** (`gson-2.8.9.jar`).  
+- Biblioteca Gson.
 - Chave de API **ExchangeRate-API** (gratuita).
